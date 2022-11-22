@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shilpikumari11
-- 👀 I’m interested in learning about latest techonology in tech field
+- 👋 Hi, I am @shilpikumari11
+- 👀 I’m interested in exploring latest techonology in Software Industry. I am passionate about data.
 - 🌱 I’m currently pursuing MCA ...
-- 💞️ I’m looking to collaborate on web development project
+- 💞️ I’m looking to collaborate on python project
 - 📫 Reach me using this email id: shilpikumari3299@gmail.com
 
 <!---
