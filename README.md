@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shilpi Kumari</h1>
-<h3 align="center">Aspiring Data Engineer from India</h3>
+<h3 align="center">Tech Enthusiast from India</h3>
 
 <img align="right" alt="coding gif" width="400px" src="https://th.bing.com/th/id/R.768a195f9878388c43d19abe9e151c8d?rik=xiM%2bQbD0HY3yPw&riu=http%3a%2f%2fwww.agenciesranked.com%2fcontent%2fuploads%2f2018%2f03%2fundraw_hello_aeia-1.png&ehk=LvYZxNStTAi5RXt0pybgWc5FzUl7Rf%2bwEluAI4rNrdk%3d&risl=&pid=ImgRaw&r=0">
 
