@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently pursuing **MCA**
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **IBM Data Engineering Professional Course**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shilpikumari11/shilpikumari11](https://github.com/shilpikumari11/shilpikumari11)
 
-- 💬 Ask me about **Python, SQL,**
+- 💬 Ask me about **Python, SQL, NoSQL, Big Data**
 
 - 📫 How to reach me **shilpikumari3299@gmail.com**
 
