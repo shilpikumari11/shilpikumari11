@@ -1,3 +1,4 @@
+![logo](https://github.com/shilpikumari11/shilpikumari11/blob/main/SHILPI%20KUMARI.jpg)
 <h1 align="center">Hi 👋, I'm Shilpi Kumari</h1>
 <h3 align="center">Tech Enthusiast from India</h3>
 
