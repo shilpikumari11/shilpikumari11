@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **shilpikumari3299@gmail.com**
 
-- 📄 Know about my experiences [MyResume](MyResume)
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
