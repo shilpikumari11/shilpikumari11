@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpikumari11&label=Profile%20views&color=0e75b6&style=flat" alt="shilpikumari11" /> </p>
 
-- 🌱 I’m currently learning **Data engineering**
+- 🌱 I’m currently gaining training in Data Science at CETPA Infotech pvt ltd**
 
-- 👯 I’m looking to collaborate on **Data Engineering projects**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shilpikumari11?tab=repositories](https://github.com/shilpikumari11?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, NoSQL, Hadoop, Airflow**
+- 💬 Ask me about **Python, EDA, Statistics, ML Algorithms, Data Science**
 
 - 📫 How to reach me **shilpikumari3299@gmail.com**
 
